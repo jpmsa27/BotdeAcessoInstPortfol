@@ -1,0 +1,16 @@
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\bin\Debug\netcoreapp3.1\BotdeAcessoPotfol.exe
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\obj\Debug\netcoreapp3.1\BotdeAcessoPotfol.csprojAssemblyReference.cache
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\obj\Debug\netcoreapp3.1\BotdeAcessoPotfol.AssemblyInfoInputs.cache
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\obj\Debug\netcoreapp3.1\BotdeAcessoPotfol.AssemblyInfo.cs
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\obj\Debug\netcoreapp3.1\BotdeAcessoPotfol.csproj.CopyComplete
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\obj\Debug\netcoreapp3.1\BotdeAcessoPotfol.csproj.CoreCompileInputs.cache
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\bin\Debug\netcoreapp3.1\BotdeAcessoPotfol.deps.json
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\bin\Debug\netcoreapp3.1\BotdeAcessoPotfol.runtimeconfig.json
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\bin\Debug\netcoreapp3.1\BotdeAcessoPotfol.runtimeconfig.dev.json
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\bin\Debug\netcoreapp3.1\BotdeAcessoPotfol.dll
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\bin\Debug\netcoreapp3.1\BotdeAcessoPotfol.pdb
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\obj\Debug\netcoreapp3.1\BotdeAcessoPotfol.dll
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\obj\Debug\netcoreapp3.1\BotdeAcessoPotfol.pdb
+C:\Users\jpmsa\source\repos\BotdeAcessoPotfol\obj\Debug\netcoreapp3.1\BotdeAcessoPotfol.genruntimeconfig.cache
